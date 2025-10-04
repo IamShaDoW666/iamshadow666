@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Milan 👋
 
-<!--
-**IamShaDoW666/iamshadow666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Self-Taught Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a **computer science student** with a passion for **learning by doing**. I dove into programming on my own, driven by curiosity and a love for solving problems. Over time, I've developed a strong foundation in **full stack development**, experimenting with various technologies and frameworks along the way.
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend:** Node.js, Express, Django, Laravel
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Other Tools:** Git, Docker, Prisma
+
+### 🌱 Current Learning Goals
+
+- Building scalable applications
+- Enhancing my knowledge of **DevOps practices**
+- Exploring more about **machine learning** and **data science**
+
+Let’s connect! Always open to learning, collaboration, and new challenges! 😊
